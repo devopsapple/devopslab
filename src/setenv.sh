@@ -1,7 +1,7 @@
 export GITACCOUNT=devopsapple
 
 export MYCLUSTER=tektonknativebeijing18
-export KUBECONFIG=
+export KUBECONFIG=/tmp/ic/AB/.bluemix/plugins/container-service/clusters/tektonknativebeijing18/kube-config-tok02-tektonknativebeijing18.yml
 
 export NAMESPACE=tektondevops-18
 export EMAIL=devopsapple@uscwifi.cn
