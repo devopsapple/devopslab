@@ -1,6 +1,6 @@
 export GITACCOUNT=devopsapple
 
-export MYCLUSTER=s0KwYoCg7y3-8ojkzMYjIDAzvYO90NQNj9tQh_xbxZWC
+export MYCLUSTER=tektonknativebeijing18
 export KUBECONFIG=
 
 export NAMESPACE=tektondevops-18
