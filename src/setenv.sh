@@ -1,6 +1,6 @@
 export GITACCOUNT=devopsapple
 
-export MYCLUSTER=
+export MYCLUSTER=s0KwYoCg7y3-8ojkzMYjIDAzvYO90NQNj9tQh_xbxZWC
 export KUBECONFIG=
 
 export NAMESPACE=
